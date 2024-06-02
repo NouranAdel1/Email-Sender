@@ -1,0 +1,3 @@
+hi,
+this is a test mail i send to check if this code works.
+thanks
